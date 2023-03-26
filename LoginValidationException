@@ -1,5 +1,0 @@
-public static class LoginValidationException extends Exception {
- public LoginValidationException(String message) {
- super(message);
- }
- }
